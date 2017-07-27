@@ -1,0 +1,1 @@
+localvimrc.vmb: call delete('/Users/Matt/.vim/README.md')|call delete('/Users/Matt/.vim/RELEASE.md')|call delete('/Users/Matt/.vim/doc/localvimrc.txt')|call delete('/Users/Matt/.vim/plugin/localvimrc.vim')
